@@ -15,15 +15,15 @@
 
 ```
 // 添加 gizscanqrcode 插件
-cordova plugin add gizscanqrcode
+cordova plugin add shuyunqrcodescanner
 // 添加 gizscanqrcode 插件(指定版本)
-cordova plugin add gizscanqrcode@版本号
+cordova plugin add shuyunqrcodescanner@版本号
 // 添加插件，同时配置iOS平台相机以及相册访问权限提示语
 cordova plugin add gizscanqrcode --variable camera_usage_description=相机使用说明 --variable photo_library_usage_description=相册访问说明
 ```
 ```
 // 删除 gizscanqrcode插件
-cordova plugin rm gizscanqrcode
+cordova plugin rm shuyunqrcodescanner
 ```
 
 > 2.插件使用

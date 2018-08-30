@@ -1,6 +1,6 @@
 {
-  "name": "qrcodescanner",
-  "version": "1.1.16",
+  "name": "shuyunqrcodescanner",
+  "version": "1.1.17",
   "description": "gizscanqrcode Cordova Plugin",
   "cordova": {
     "id": "com.gizscanqrcode",
@@ -47,11 +47,11 @@
   },
   "main": "index.js",
   "repository": {
-    "type": "git",
-    "url": "git+ssh://git@github.com/gizwits/cordova-gizwits-scan-qrcode.git"
+    "type": "git",   
+    "url": "git+ssh://git@github.com/ypzhuang/cordova-gizwits-scan-qrcode.git"
   },
   "bugs": {
-    "url": "https://github.com/gizwits/cordova-gizwits-scan-qrcode/issues"
+    "url": "https://github.com/ypzhuang/cordova-gizwits-scan-qrcode/issues"
   },
-  "homepage": "https://github.com/gizwits/cordova-gizwits-scan-qrcode#readme"
+  "homepage": "https://github.com/ypzhuang/cordova-gizwits-scan-qrcode#readme"
 }
